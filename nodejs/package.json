@@ -1,0 +1,24 @@
+{
+  "name": "awesome-test",
+  "version": "1.0.0",
+  "description": "First Node App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacquelinepeh/node-booklet-code.git"
+  },
+  "author": "Jacqueline Peh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacquelinepeh/node-booklet-code/issues"
+  },
+  "homepage": "https://github.com/jacquelinepeh/node-booklet-code#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "instagram-node": "^0.5.8"
+  }
+}
